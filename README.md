@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lucas Bussular
 ======================================================================================================================================
 
-Analysis and System Development | Front End Dev
+Analysis and System Development | AI & Data Analysis
 -----------------------------------------------
 
 Hello World! I'm Lucas, a passionate Front End Developer with a love for JavaScript. I'm a former architect and urbanist transitioning carrers to become the best web developer i can! I am currently pursuing Systems Analysis and Development while concurrently learning and enhancing my skills with JavaScript and its frameworks. Feel free to contact me: I'm open to new internship opportunities!
@@ -9,8 +9,7 @@ Hello World! I'm Lucas, a passionate Front End Developer with a love for JavaScr
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my site](http://portfolio-lucas-bussular.vercel.app)
 * ✉️  You can contact me at [lucasbussular15@gmail.com](mailto:lucasbussular15@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on UX/UI | Front End projects
+* 🧠  I'm learning AI, Data Analysis and Deep Learning
 * ⚡  I'm also very good at cooking!
 
 ### Skills
