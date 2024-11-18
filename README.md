@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Analysis and System Development | AI & Data Analysis
 -----------------------------------------------
 
-Hello World! I'm Lucas, a passionate Front End Developer with a love for JavaScript. I'm a former architect and urbanist transitioning carrers to become the best web developer i can! I am currently pursuing Systems Analysis and Development while concurrently learning and enhancing my skills with JavaScript and its frameworks. Feel free to contact me: I'm open to new internship opportunities!
+Hello World! I'm Lucas, passionate about Artificial Intelligence and Machine Learning. As a former architect and urbanist, I bring a unique perspective to problem-solving and design, which I now apply to AI-driven projects. Currently, I'm pursuing a degree in Systems Analysis and Development while deepening my understanding of AI, machine learning, and their integration with modern technologies. I'm eager to explore innovative solutions and am open to internship opportunities in AI and technology development. Let’s build the future together!
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my site](http://portfolio-lucas-bussular.vercel.app)
